@@ -14,5 +14,8 @@ from console.aws.amazon.com
 4) Next: Add Storage
 5) Next: Add Tags
 6) Next: Configure security group
-	a)Add Rule
+a) Add Rule
+b) Custom TCP
+c) Set Port Range to the one specified in the Dockerfile (ie 5000)
+
 		
