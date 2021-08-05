@@ -24,5 +24,12 @@ from console.aws.amazon.com
 9) On the pop-up window select
 * a) Create a new Key-Pair
 * b) Name the Key-Pair
+* c) Download the Key-Pair and store on a folder near your project
+10) Launch Instances
+11) View Instances. Make sure instanc is running
+
+
+
+
 
 		
