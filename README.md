@@ -1,7 +1,11 @@
 # Deploying Docker Image to AWS EC2
 
+## Requirements
+GitBash
 
-Deploy Docker Container
+AWS account (Free Tier)
+
+## Create EC2 Instance
 
 from console.aws.amazon.com
 1) Lauch a Virtual Machine
@@ -10,5 +14,6 @@ from console.aws.amazon.com
 4) Next: Add Storage
 5) Next: Add Tags
 6) Next: Configure security group
+<br>
 	a)Add Rule
 		
