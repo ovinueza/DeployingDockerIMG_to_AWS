@@ -13,9 +13,16 @@ from console.aws.amazon.com
 3) Click Next: Configure Instance Details
 4) Next: Add Storage
 5) Next: Add Tags
-6) Next: Configure security group
+6) Next: Configure Security Group
 * a) Add Rule
 * b) Custom TCP
 * c) Set Port Range to the one specified in the Dockerfile (ie 5000)
+* d) Add IP address. (Use 0.0.0.0/0 for single time use projects)
+
+7) Review and Lauch
+8) Lauch
+9) On the pop-up window select
+* a) Create a new Key-Pair
+* b) Name the Key-Pair
 
 		
