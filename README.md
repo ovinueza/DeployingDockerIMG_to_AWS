@@ -1,7 +1,11 @@
-# Deploying Docker Image to AWS EC2
+# Docker
 
 ## Requirements
 GitBash
+
+Docker Desktop
+
+Docker Hub account (Free Tier)
 
 AWS account (Free Tier)
 
