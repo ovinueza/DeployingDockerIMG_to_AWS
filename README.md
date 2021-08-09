@@ -3,7 +3,7 @@
 ## Requirements
 GitBash
 
-Docker Desktop
+[Docker Desktop](https://www.docker.com/products/docker-desktop)
 
 [Docker Hub account (Free Tier)](https://hub.docker.com/)
 
