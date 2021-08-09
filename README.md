@@ -1,8 +1,8 @@
 # Docker
 
-<center>
-![Docker](https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/docker_logo.png)
-</center>
+<p align="center">
+  <img src="https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/docker_logo.png" />
+</p>
 
 ## Requirements
 GitBash
