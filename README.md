@@ -13,9 +13,13 @@ GitBash
 
 [AWS account (Free Tier)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
-## Overview
+## Objectives
+* Students will gain knowledge of containers and its importance in today's IT world.
+* Students will have the tools to Dockerize their capstone projects.
+* Students will be able to deploy their capstone projects to AWS EC2
 
-## Instructor prep
+
+## Instructor Prep
 <details>
   <summary><strong>Instructor Notes</strong></summary>
 
