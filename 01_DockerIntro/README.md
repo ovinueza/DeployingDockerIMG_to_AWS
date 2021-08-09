@@ -1,32 +1,25 @@
 # Intro to Docker
 
-## Requirements
-GitBash
+## Installation
 
-AWS account (Free Tier)
+Docker Desktop
 
-## Create EC2 Instance
+## Working with Virtual Environments
+<details>
+	<summary><strong>Anaconda Virtual Environments</summary></strong>
+1) Open Anaconda Navigator
+2) Go to the Environments Section of Anaconda Navigator
+3) Create
+4) Name the Environment -> Create
+</details>
 
-from console.aws.amazon.com
-1) Lauch a Virtual Machine
-2) Select Amazon Linux AMI
-3) Click Next: Configure Instance Details
-4) Next: Add Storage
-5) Next: Add Tags
-6) Next: Configure Security Group
-	* a) Add Rule
-	* b) Custom TCP
-	* c) Set Port Range to the one specified in the Dockerfile (ie 5000)
-	* d) Add IP address. (Use 0.0.0.0/0 for single time use projects)
-
-7) Review and Lauch
-8) Lauch
-9) On the pop-up window select
-	* a) Create a new Key-Pair
-	* b) Name the Key-Pair
-	* c) Download the Key-Pair and store on a folder near your project
-10) Launch Instances
-11) View Instances. Make sure instanc is running
+<details>
+	<summary><strong>Lauch Virtual Environment in Visual Studio Code</summary></strong>
+1) Open Anaconda Navigator
+2) Go to the Environments Section of Anaconda Navigator
+3) Create
+4) Name the Environment -> Create
+</details>
 
 
 ## Connect Image
