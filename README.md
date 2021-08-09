@@ -5,7 +5,7 @@ GitBash
 
 Docker Desktop
 
-Docker Hub account (Free Tier)
+[Docker Hub account (Free Tier)](https://hub.docker.com/)
 
 AWS account (Free Tier)
 
