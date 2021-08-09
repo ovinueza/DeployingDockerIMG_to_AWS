@@ -7,18 +7,28 @@ Docker Desktop
 ## Working with Virtual Environments
 <details>
 	<summary><strong>Anaconda Virtual Environments</summary></strong>
+	
 * Open Anaconda Navigator
+	
 * Go to the Environments Section of Anaconda Navigator
+	
 * Create
+	
 * Name the Environment -> Create
+	
 </details>
 
 <details>
 	<summary><strong>Lauch Virtual Environment in Visual Studio Code</summary></strong>
+	
 * Open Anaconda Navigator
+	
 * Go to the Environments Section of Anaconda Navigator
+	
 * Create
+	
 * Name the Environment -> Create
+	
 </details>
 
 
