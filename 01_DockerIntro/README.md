@@ -1,4 +1,4 @@
-# Deploying Docker Image to AWS EC2
+# Intro to Docker
 
 ## Requirements
 GitBash
