@@ -29,7 +29,7 @@ Docker Desktop
 	
 * Open VS Code
 	
-* Lauch commnad pallet - Ctrl+Shift+P
+* Lauch Command Pallet - Ctrl+Shift+P
 	
 * Python: Select Interpreter
 	
@@ -40,8 +40,6 @@ Docker Desktop
 	
 </details>
 
-
-## Connect Image
 
 
 
