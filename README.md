@@ -1,35 +1,35 @@
-# Deploying Docker Image to AWS EC2
+# Docker
+
+<p align="center">
+  <img src="https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/docker_logo.png" />
+</p>
 
 ## Requirements
 GitBash
 
-AWS account (Free Tier)
+[Docker Desktop](https://www.docker.com/products/docker-desktop)
 
-## Create EC2 Instance
+[Docker Hub account (Free Tier)](https://hub.docker.com/)
 
-from console.aws.amazon.com
-1) Lauch a Virtual Machine
-2) Select Amazon Linux AMI
-3) Click Next: Configure Instance Details
-4) Next: Add Storage
-5) Next: Add Tags
-6) Next: Configure Security Group
-	* a) Add Rule
-	* b) Custom TCP
-	* c) Set Port Range to the one specified in the Dockerfile (ie 5000)
-	* d) Add IP address. (Use 0.0.0.0/0 for single time use projects)
+[AWS account (Free Tier)](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
 
-7) Review and Lauch
-8) Lauch
-9) On the pop-up window select
-	* a) Create a new Key-Pair
-	* b) Name the Key-Pair
-	* c) Download the Key-Pair and store on a folder near your project
-10) Launch Instances
-11) View Instances. Make sure instanc is running
+## Objectives
+* Students will gain knowledge of containers and its importance in today's IT world.
+* Students will have the tools to Dockerize their capstone projects.
+* Students will be able to deploy their capstone projects to AWS EC2
 
 
-## Connect Image
+## Instructor Prep
+<details>
+  <summary><strong>Instructor Notes</strong></summary>
+
+* This lesson should presented before the start of the capstone project.
+
+* GitBash will be necessary to connect via Linux to AWS EC2.
+
+</details>
+
+
 
 
 
