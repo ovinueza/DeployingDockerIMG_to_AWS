@@ -18,6 +18,9 @@ Docker Desktop
 * Create
 	
 * Name the Environment -> Create
+	<p align="center">
+  		<img src="https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/anaconda_Create_env.PNG" />
+	</p>
 	
 </details>
 
