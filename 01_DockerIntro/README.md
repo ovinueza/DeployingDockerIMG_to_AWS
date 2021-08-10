@@ -27,13 +27,16 @@ Docker Desktop
 <details>
 	<summary><strong>Lauch Virtual Environment in Visual Studio Code</summary></strong>
 	
-* Open Anaconda Navigator
+* Open VS Code
 	
-* Go to the Environments Section of Anaconda Navigator
+* Lauch commnad pallet - Ctrl+Shift+P
 	
-* Create
+* Python: Select Interpreter
 	
-* Name the Environment -> Create
+* Select the environment
+	<p align="center">
+  		<img src="https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/vs_code_select_env.PNG" />
+	</p>
 	
 </details>
 
