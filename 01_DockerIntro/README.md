@@ -10,7 +10,10 @@ Docker Desktop
 	
 * Open Anaconda Navigator
 	
-* Go to the Environments Section of Anaconda Navigator
+* Go to the Environments Section section.
+	<p align="center">
+  		<img src="https://github.com/ovinueza/DeployingDockerIMG_to_AWS/blob/main/images/anaconda_home_env.PNG" />
+	</p>
 	
 * Create
 	
